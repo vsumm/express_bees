@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/express_bees/precache-manifest.57a0a3e2d22854d35dbaa4240de4414f.js"
+  "/fraction_express/precache-manifest.48dddb07313c5508c120a55b0daa9edf.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/express_bees/index.html", {
+workbox.routing.registerNavigationRoute("/fraction_express/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
