@@ -1,22 +1,19 @@
 import React from 'react';
 import { InfoSection } from '../../components';
 import { homeObjOne, homeObjTwo } from './Data';
-import Tabledata from './datefilter';
+// import Tabledata from './datefilter';
 import Grid from './apidata';
-import Fraction from './yolo';
+// import Fraction from './yolo';
 import App from './cell_render/App'
 
 function FHAD() {
   return (
     <>
       <InfoSection {...homeObjTwo} />
-      <br></br>
-      <Tabledata />
+      {/* <Tabledata /> */}
       <br />
       <br />
-      <br />
-      <Fraction />
-      <br />
+      {/* <Fraction /> */}
       <br />
       <App />
       <InfoSection {...homeObjOne} />

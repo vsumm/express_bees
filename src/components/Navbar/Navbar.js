@@ -59,7 +59,7 @@ function Navbar() {
 
               <NavItem>
                 <NavLinks to='/FHAD' onClick={closeMobileMenu}>
-                  FHAD
+                  Activity 
                 </NavLinks>
               </NavItem>
               <NavItemBtn>
