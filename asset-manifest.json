@@ -1,6 +1,6 @@
 {
   "main.css": "/express_software/static/css/main.77b2d8ff.chunk.css",
-  "main.js": "/express_software/static/js/main.c5f70d41.chunk.js",
+  "main.js": "/express_software/static/js/main.b3eea5d4.chunk.js",
   "static/css/1.df56fcec.chunk.css": "/express_software/static/css/1.df56fcec.chunk.css",
   "static/js/1.362c74f2.chunk.js": "/express_software/static/js/1.362c74f2.chunk.js",
   "static/js/2.8d285aca.chunk.js": "/express_software/static/js/2.8d285aca.chunk.js",
@@ -13,6 +13,6 @@
   "static/media/profile.jpg": "/express_software/static/media/profile.22c2d0c8.jpg",
   "static/media/svg-3.svg": "/express_software/static/media/svg-3.397c455a.svg",
   "index.html": "/express_software/index.html",
-  "precache-manifest.f6d6156f68c99f400ceda38ba960bb3e.js": "/express_software/precache-manifest.f6d6156f68c99f400ceda38ba960bb3e.js",
+  "precache-manifest.54fc33b20e5876ad79494fbe582f3b81.js": "/express_software/precache-manifest.54fc33b20e5876ad79494fbe582f3b81.js",
   "service-worker.js": "/express_software/service-worker.js"
 }
